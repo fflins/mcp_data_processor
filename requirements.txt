@@ -28,12 +28,12 @@ pandas==2.3.3
 proto-plus==1.27.1
 protobuf==6.33.5
 pyasn1==0.6.2
-pyasn1_modules==0.4.2
+pyasn1-modules==0.4.2
 pycparser==3.0
 pydantic==2.12.5
+pydantic-core==2.41.5
 pydantic-settings==2.13.1
-pydantic_core==2.41.5
-PyJWT==2.11.0
+pyjwt==2.11.0
 pyparsing==3.3.2
 python-dateutil==2.9.0.post0
 python-dotenv==1.2.2
@@ -47,8 +47,8 @@ rsa==4.9.1
 six==1.17.0
 sse-starlette==3.3.2
 starlette==0.52.1
+typing-extensions==4.15.0
 typing-inspection==0.4.2
-typing_extensions==4.15.0
 tzdata==2025.3
 uritemplate==4.2.0
 urllib3==2.6.3
